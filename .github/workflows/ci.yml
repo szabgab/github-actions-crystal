@@ -9,10 +9,6 @@ on:
 
 # Created using https://crystal-lang.github.io/install-crystal/configurator.html
 
-on:
-  push:
-  pull_request:
-
 jobs:
   test:
     strategy:
