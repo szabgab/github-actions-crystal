@@ -1,1 +1,4 @@
-Skeleton [GitHub Actions](https://code-maven.com/github-actions) for a Crystal project
+# GitHub Workflow for a project in Crystal
+
+For the full list of examples and explanations visit https://git.code-maven.com/
+
